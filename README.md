@@ -1,5 +1,6 @@
-# Diffusion_models
-Code produced by Hoang Dung Vu Minh and Christopher Won.
+# Denoising Diffusion Probabilistic Models 
+
+Theoretical Mathematics derivation behind DDPM and produced codes by Hoang Dung Vu Minh and Christopher Won.
 
 
 Relevant information to know:
